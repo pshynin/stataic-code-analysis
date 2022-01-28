@@ -13,7 +13,6 @@
 
   <artifactId>ktlint</artifactId>
   <packaging>jar</packaging>
-
   <description>POC ktlint</description>
 
 </project>
