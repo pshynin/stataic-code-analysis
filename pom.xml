@@ -24,6 +24,10 @@
 
   <modules>
     <module>ktlint</module>
+    <module>diktat</module>
+    <module>detekt</module>
+    <module>sonarlint</module>
+    <module>sonarsource</module>
   </modules>
 
   <dependencies>
